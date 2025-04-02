@@ -11,5 +11,7 @@ body{
 }
 
 #relogio{
-    background-color: brown;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 10px;
 }
